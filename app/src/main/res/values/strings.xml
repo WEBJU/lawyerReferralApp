@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Lawyer Recommender</string>
+    <string name="profile_fragment">Profile</string>
+    <string name="title_history">History</string>
+    <string name="title_profile">Profile</string>
+    <string name="title_case__recommendations">Recommendations</string>
+    <string name="title_home">Home</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_filter">FilterActivity</string>
+</resources>
